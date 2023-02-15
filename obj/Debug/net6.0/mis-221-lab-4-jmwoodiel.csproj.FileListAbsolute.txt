@@ -1,0 +1,15 @@
+C:\Users\Jacob\source\repos\mis221\mis-221-lab-4-jmwoodiel\obj\Debug\net6.0\mis-221-lab-4-jmwoodiel.csproj.AssemblyReference.cache
+C:\Users\Jacob\source\repos\mis221\mis-221-lab-4-jmwoodiel\obj\Debug\net6.0\mis-221-lab-4-jmwoodiel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacob\source\repos\mis221\mis-221-lab-4-jmwoodiel\obj\Debug\net6.0\mis-221-lab-4-jmwoodiel.AssemblyInfoInputs.cache
+C:\Users\Jacob\source\repos\mis221\mis-221-lab-4-jmwoodiel\obj\Debug\net6.0\mis-221-lab-4-jmwoodiel.AssemblyInfo.cs
+C:\Users\Jacob\source\repos\mis221\mis-221-lab-4-jmwoodiel\obj\Debug\net6.0\mis-221-lab-4-jmwoodiel.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\mis221\mis-221-lab-4-jmwoodiel\bin\Debug\net6.0\mis-221-lab-4-jmwoodiel.exe
+C:\Users\Jacob\source\repos\mis221\mis-221-lab-4-jmwoodiel\bin\Debug\net6.0\mis-221-lab-4-jmwoodiel.deps.json
+C:\Users\Jacob\source\repos\mis221\mis-221-lab-4-jmwoodiel\bin\Debug\net6.0\mis-221-lab-4-jmwoodiel.runtimeconfig.json
+C:\Users\Jacob\source\repos\mis221\mis-221-lab-4-jmwoodiel\bin\Debug\net6.0\mis-221-lab-4-jmwoodiel.dll
+C:\Users\Jacob\source\repos\mis221\mis-221-lab-4-jmwoodiel\bin\Debug\net6.0\mis-221-lab-4-jmwoodiel.pdb
+C:\Users\Jacob\source\repos\mis221\mis-221-lab-4-jmwoodiel\obj\Debug\net6.0\mis-221-lab-4-jmwoodiel.dll
+C:\Users\Jacob\source\repos\mis221\mis-221-lab-4-jmwoodiel\obj\Debug\net6.0\refint\mis-221-lab-4-jmwoodiel.dll
+C:\Users\Jacob\source\repos\mis221\mis-221-lab-4-jmwoodiel\obj\Debug\net6.0\mis-221-lab-4-jmwoodiel.pdb
+C:\Users\Jacob\source\repos\mis221\mis-221-lab-4-jmwoodiel\obj\Debug\net6.0\mis-221-lab-4-jmwoodiel.genruntimeconfig.cache
+C:\Users\Jacob\source\repos\mis221\mis-221-lab-4-jmwoodiel\obj\Debug\net6.0\ref\mis-221-lab-4-jmwoodiel.dll
